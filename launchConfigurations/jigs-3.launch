@@ -1,0 +1,14 @@
+{
+  "ServiceId": "com.ibm.cloudoe.orion.client.deploy",
+  "Params": {
+    "Target": {
+      "Url": "https://api.eu-gb.cf.cloud.ibm.com",
+      "Org": "jignesh.cba1715@ict.gnu.ac.in",
+      "Space": "dev"
+    },
+    "Name": "jigs-3",
+    "Instrumentation": {}
+  },
+  "Path": "",
+  "Type": "Cloud Foundry"
+}
